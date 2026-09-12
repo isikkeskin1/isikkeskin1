@@ -1,11 +1,9 @@
 # Işık Keskin
 
-Computer Engineering @ PoliTo 🇮🇹
+Computer Engineering @ PoliTo
 
 building things.
 
-🔬 LabSim
-📚 StudyOS
-⚙️ Forge
+🔬 LabSim · 📚 StudyOS · ⚙️ Forge
 
 Python · C · Java · TypeScript
