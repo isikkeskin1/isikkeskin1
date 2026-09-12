@@ -1,17 +1,11 @@
 # Işık Keskin
 
-Computer Engineering @ Politecnico di Torino
+Computer Engineering @ PoliTo 🇮🇹
 
-I build software, simulations, and occasionally questionable ideas.
+building things.
 
-### Currently
+🔬 LabSim
+📚 StudyOS
+⚙️ Forge
 
-🔬 [LabSim](...)
-📚 [StudyOS](...)
-⚙️ [Forge](...)
-
-### Stack
-
-Python · C · Java · TypeScript · Git
-
-[website] · [linkedin]
+Python · C · Java · TypeScript
